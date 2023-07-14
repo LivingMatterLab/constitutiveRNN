@@ -1,7 +1,7 @@
 # constitutiveRNN
 Code and data for automated viscoelastic model discovery for muscle tissue.
 
-Scientific paper using this code: 
+Scientific paper using this code: (https://doi.org/10.1016/j.jmbbm.2023.106021)
 
 <b> Files: </b> <br>
 1. main: Example of training a model on muscle data <br>
